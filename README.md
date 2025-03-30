@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @e-identitygh
+- 👋 Hi, I’m @Asotech
 - 👀 I’m interested in securing identity
 - 🌱 I’m currently learning how to secure identity
 - 💞️ I’m looking to collaborate on securing identity
