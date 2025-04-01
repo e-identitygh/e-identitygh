@@ -7,6 +7,6 @@
 - ⚡ Fun fact: we will be the first electronic identity in Africa
 
 <!---
-e-identitygh/e-identitygh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+asotech/asotech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
